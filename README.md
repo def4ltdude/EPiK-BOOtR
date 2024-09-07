@@ -23,4 +23,4 @@ A DDoS tool for stress testing. (lolz)
 You can add valid HTTP proxy URLs and user agents in the .txt files if you want.
 
 # End:
-Credits to Luna26 for helping me make this. This tool is for educational purposes only.
+Credits to Luna26 for helping me make this ( https://github.com/Luna26ot ). This tool is for educational purposes only.
