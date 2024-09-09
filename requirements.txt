@@ -1,5 +1,5 @@
 colorama
-threading
+thread6
 random
 requests
 time
